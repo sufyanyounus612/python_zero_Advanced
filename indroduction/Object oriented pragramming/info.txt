@@ -1,0 +1,5 @@
+1 - classes & ojbect
+2 - inheritance
+3 - encapsulation 
+4 - obstraction
+5 - polymorphism

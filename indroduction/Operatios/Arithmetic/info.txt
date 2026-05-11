@@ -1,0 +1,8 @@
+PEMDAS
+P -> PARATHESIS()
+E -> EXPONENTS(**)
+MD -> MD (*,/,%)
+AS -> AS(+,-)
+
+ARITHMETIC 
+COMPARSION

@@ -1,0 +1,6 @@
+arith - math calculation
+COMPARSION - compare values
+logical - combine
+assignment - assign values
+identity - ojbect memory location
+membership - value exist in sequences

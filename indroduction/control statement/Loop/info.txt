@@ -1,0 +1,25 @@
+multiple times repeats
+
+1- while loop
+2- for loop
+
+
+--------------------
+while loop
+conditon is True 
+
+while conditon:
+   #code excute
+----------------------
+for loop
+[1,2,3,4,5]
+5 times
+
+
+list tuple dictionary  string
+
+for varaiable in sequence:
+       #code excute
+
+for a in list:
+     print(a)

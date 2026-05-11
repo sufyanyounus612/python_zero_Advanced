@@ -1,0 +1,39 @@
+string and characters
+
+numbers
+a-z A-Z !@#$%
+white space
+" "
+
+single quotes -'python'
+double -"python"
+
+'''
+this is a 
+multi line
+'''
+
+"""
+this is 
+also a multi 
+line
+"""
+indexing 0
++ve,-ve
+a = 'python'
+P
+y
+t
+h
+o
+n
+
+-------------------------
+3 characters
+
+1- immutable
+2-indexed 
+3-iterable
+
+--------------------------
+4- Real life example
